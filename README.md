@@ -34,8 +34,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" alt="uipath" width="40" height="40"/> </a> 
+<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.8297063386fb7e90d62cc4a114bada08?rik=UCGYJUTtv8d%2fuQ&pid=ImgRaw&r=0" alt="uipath" width="40" height="40"/> </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoMonteiro02&show_icons=true&locale=en&layout=compact" alt="GustavoMonteiro02" /></p>
 
