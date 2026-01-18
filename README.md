@@ -4,20 +4,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoMonteiro02&label=Profile%20views&color=0e75b6&style=flat" alt="GustavoMonteiro02" /> </p>
 
-- 🌱 I’m currently learning **Robotics, AI, and Advanced Automation**
-  
-- 👯 I’m looking to collaborate on **AI, automation, and robotics projects**
-  
-- 🤝 I’m always open to **new challenges and knowledge exchange**
+👋 About Me
+I was born with an unexplained passion for technology, games, design, and sports. This passion fuels my curiosity to constantly explore, learn, and take new challenges, leading me to pursue my education in Sciences and Technologies building the foundation of my technical and soft skills.
 
-- 📝 Working on projects that merge **software, automation, and intelligent systems**
+🚀 Professional Journey
+💻 Software Development
+Pursuing my dream of becoming a software developer, I joined Code For All, a pivotal step that ignited my journey into software development. There, I discovered the thrill of building solutions, propelling me into my first role as a Back End Developer building APIs, Microservices and cloud solutions. Seeking a broader product perspective, I extended my skill set into Mobile Development, contributing to cross-platform applications.
 
-- 💬 Ask me about **Python, JavaScript, Automation, Robotics, AI**
+🤖 Automation & AI
+Fascinated by the transformative potential of automation and AI, I transitioned into RPA, where I designed and developed automations. This knowledge, combined with my technical versatility and motivation, led me to lead automation teams and initiatives and work as a senior RPA engineer, designing, developing, and maintaining enterprise-grade UiPath automations for complex business processes.
+
+🎓 Academic Background
+Complementing my professional experience, background is further strengthened by a postgraduate degree in Programming, Robotics, and Artificial Intelligence, with hands-on experience in applied machine learning, computer vision, robotics, and intelligent control systems.
+
+🌱 What I Stand For
+My experience journey spanning Back End and Mobile Development, Process Automation, and Leadership reflects a commitment to adaptability and growth. Whether building/architecting/testing systems, automating/optimizing processes, or guiding teams, I thrive on turning challenges into opportunities for growth, innovation and excellence.
 
 - 📫 How to reach me: **devgustavom@gmail.com**
 
 - 📄 LinkedIn: [https://www.linkedin.com/in/devgustavom/](https://www.linkedin.com/in/devgustavom/)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
