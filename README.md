@@ -1,7 +1,7 @@
 # Gustavo Monteiro 👋
 **Software & Automation Engineer** · **UiPath RPA** · **AI / Robotics**
 
-Based in **Terceira Island, Portugal**. I build and lead end-to-end automation initiatives, and I also have hands-on experience across **backend, frontend, and mobile development**. I enjoy turning complex business problems into reliable systems—whether that means shipping software, automating processes, or applying AI to real-world tasks.
+Based in **Terceira Island, Portugal**. I build and lead end-to-end automation initiatives, and I also have hands-on experience across **backend, frontend, and mobile development**. I enjoy turning complex business problems into reliable systems, whether that means shipping software, automating processes, or applying AI to real-world tasks.
 
 - 🧠 Focus: **Intelligent Automation**, **AI-driven workflows**, **Computer Vision**, **Applied ML**
 - 🧩 Domains: **Financial SAP processes**, **health systems / Revenue Cycle Management**, **public-sector apps**
@@ -78,5 +78,5 @@ Based in **Terceira Island, Portugal**. I build and lead end-to-end automation i
 
 ## Let’s connect
 - 📩 Email: **devgustavom@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/devgustavom/
+- 💼 LinkedIn: https://www.linkedin.com/in/devgustavom
 - 🧑‍💻 GitHub: https://github.com/GustavoMonteiro02
